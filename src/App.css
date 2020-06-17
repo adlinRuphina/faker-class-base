@@ -1,0 +1,20 @@
+body {
+  background-color: #eee;
+  padding: 0px;
+  margin: 0px;
+}
+.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+#studentBlock {
+  width: 23%;
+  background: #fff;
+  margin: 10px;
+}
+#studentBlock img {
+  height: 150px !important;
+  width: 100%;
+}
